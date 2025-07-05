@@ -7,7 +7,9 @@ requires-python = ">=3.12"
 dependencies = [
     "agno>=1.4.5",
     "duckduckgo-search>=8.0.1",
+    "elevenlabs>=2.5.0",
     "fastapi[standard]>=0.115.12",
+    "firecrawl-py>=2.13.0",
     "lancedb>=0.22.0",
     "openai>=1.77.0",
     "pandas>=2.2.3",

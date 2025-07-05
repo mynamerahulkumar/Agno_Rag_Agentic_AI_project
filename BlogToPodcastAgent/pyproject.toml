@@ -1,0 +1,14 @@
+[project]
+name = "agnoagentiaiprojectnew"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=1.7.0",
+    "elevenlabs>=2.5.0",
+    "firecrawl-py>=2.13.0",
+    "openai>=1.93.0",
+    "pandas>=2.3.0",
+    "python-dotenv>=1.1.1",
+]

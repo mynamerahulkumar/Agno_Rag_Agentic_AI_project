@@ -1,6 +1,6 @@
 
 activate venv
 source .venv/bin/activate
-Buy groceries
-Call Alice
-Finish report   
+
+deactivate
+uv add -r requirements.txt
